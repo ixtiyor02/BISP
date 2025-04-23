@@ -204,7 +204,7 @@ const Create = () => {
                 <option value="Gold">Gold</option>
                 <option value="Rose Gold">Rose Gold</option>
                 <option value="Two Tone">Two Tone</option>
-                <option value="Two Tone">Aluminum</option>
+                <option value="Aluminum">Aluminum</option>
               </select>
             </div>
             <div>
@@ -222,12 +222,12 @@ const Create = () => {
                 <option value="">Select bracelet style</option>
                 <option value="Oyster Bracelet">Oyster Bracelet</option>
                 <option value="Jubilee Bracelet">Jubilee Bracelet</option>
-                <option value="Jubilee Bracelet">Sport Brand</option>
-                <option value="Jubilee Bracelet">Alpine Loop</option>
-                <option value="Jubilee Bracelet">Sport Loop</option>
-                <option value="Jubilee Bracelet">Milanese Loop</option>
-                <option value="Jubilee Bracelet">Leather Single Tour</option>
-                <option value="Jubilee Bracelet">Nike Sport Brand</option>
+                <option value="Sport Brand">Sport Brand</option>
+                <option value="Alpine Loop">Alpine Loop</option>
+                <option value="Sport Loop">Sport Loop</option>
+                <option value="Milanese Loop">Milanese Loop</option>
+                <option value="Leather Single Tour">Leather Single Tour</option>
+                <option value="Nike Sport Brand">Nike Sport Brand</option>
                 <option value="Presidential Bracelet">
                   Presidential Bracelet
                 </option>

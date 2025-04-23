@@ -1,4 +1,4 @@
-import Orders from "@/components/AllOrders";
+import Orders from "@/components/OrdersList";
 import React from "react";
 
 const Page = () => {

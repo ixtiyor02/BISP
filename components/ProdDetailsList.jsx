@@ -1,18 +1,13 @@
 import React from "react";
 import {
   ShoppingCart,
-  Heart,
   Watch,
   Link,
   Star,
   Gem,
-  Shield,
-  Activity,
   Aperture,
   Droplet,
   Layers,
-  Feather,
-  Zap,
 } from "lucide-react";
 
 const ProdDetailsList = ({ product }) => {
